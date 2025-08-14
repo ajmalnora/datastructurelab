@@ -2,6 +2,6 @@
 void main()
 {
 
-printf("HELLO WORLD!");
-
+printf("HELLO WORLD!\n");
+printf("First program");
 }
